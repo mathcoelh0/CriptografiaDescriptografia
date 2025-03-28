@@ -2,6 +2,11 @@
 
 Um sistema Python que implementa dois métodos populares de criptografia: Cifra de César e Criptografia XOR. Este projeto foi criado com fins educacionais para demonstrar conceitos básicos de criptografia.
 
+## ⭐ Demonstração
+![Sistema de Criptografia](https://img.shields.io/badge/Python-Criptografia-blue)
+- Cifra de César: Método clássico de substituição
+- Criptografia XOR: Método moderno e reversível
+
 ## 📋 Índice
 - [Funcionalidades](#funcionalidades)
 - [Métodos de Criptografia](#métodos-de-criptografia)
